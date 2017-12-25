@@ -3,6 +3,13 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/python3/dataVisual" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/python3/source" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/python3/cookbook" />
+      <excludeFolder url="file://$MODULE_DIR$/python3/cookbook/datacoding" />
+      <excludeFolder url="file://$MODULE_DIR$/python3/cookbook/function" />
+      <excludeFolder url="file://$MODULE_DIR$/python3/cookbook/io" />
+      <excludeFolder url="file://$MODULE_DIR$/python3/cookbook/modern" />
+      <excludeFolder url="file://$MODULE_DIR$/python3/cookbook/net" />
       <excludeFolder url="file://$MODULE_DIR$/python3/dataVisual" />
       <excludeFolder url="file://$MODULE_DIR$/python3/example" />
       <excludeFolder url="file://$MODULE_DIR$/python3/game" />
